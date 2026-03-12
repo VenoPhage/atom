@@ -1,0 +1,1 @@
+All code here originates follows the code seen from [Dave Gray's Django course on youtube](https://www.youtube.com/watch?v=Rp5vd34d-z4), this branch will eventually be deleted after I've completed the course and no longer need this branch for refrence.
